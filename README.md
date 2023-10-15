@@ -1,1 +1,1 @@
-# randomizer
+# Django Polls Tutorial
